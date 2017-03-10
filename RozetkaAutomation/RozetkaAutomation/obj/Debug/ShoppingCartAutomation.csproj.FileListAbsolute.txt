@@ -1,0 +1,14 @@
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\ShoppingCartAutomation.dll.config
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\ShoppingCartAutomation.dll
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\ShoppingCartAutomation.pdb
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\Bumblebee.dll
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\nunit.framework.dll
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\TechTalk.SpecFlow.dll
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\WebDriver.dll
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\WebDriver.Support.dll
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\Bumblebee.xml
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\nunit.framework.xml
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\WebDriver.xml
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\bin\Debug\WebDriver.Support.xml
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\obj\Debug\ShoppingCartAutomation.dll
+D:\Workspace\ShoppingCartAutomation\ShoppingCartAutomation\obj\Debug\ShoppingCartAutomation.pdb

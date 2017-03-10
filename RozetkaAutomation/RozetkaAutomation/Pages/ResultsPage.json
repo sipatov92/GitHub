@@ -1,0 +1,13 @@
+﻿{
+  "page": {
+    "name": "HeadersPage",
+    "controls": [
+      {
+        "name": "ResultsItem",
+        "selectorType": "XPath",
+        "selector": "//div[@data-location='searchResults']//a[contains(.,'${itemName}')]"
+      }     
+    ]
+  }
+
+}

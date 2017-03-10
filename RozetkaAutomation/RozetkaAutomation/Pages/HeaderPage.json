@@ -1,0 +1,18 @@
+﻿{
+  "page": {
+    "name": "HeadersPage",
+    "controls": [
+      {
+        "name": "SearchField",
+        "selectorType": "XPath",
+        "selector": "//input[@class='rz-header-search-input-text passive']"
+      },
+      {
+        "name": "ButtonSearch",
+        "selectorType": "XPath",
+        "selector": "//button[@name='rz-search-button']"
+      }
+    ]
+  }
+
+}
